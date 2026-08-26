@@ -61,3 +61,7 @@
 
 公開填寫網址：
 https://docs.google.com/forms/d/e/1FAIpQLSdCDeS1J2C76jdn5f7nTxGxkl9TYMnFQoyKsO5lgZUkfl6r3g/viewform
+
+## 2026-08-26 姓名欄位修正
+
+第一題「你的姓名／稱呼」已由 Checkbox 改為 Short answer 文字輸入框，並移除原本的 Option 1。表格已重新發佈；公開填寫頁已驗證顯示「Your answer」文字輸入框，網站沿用同一個 embed URL，因此會自動同步更新。
