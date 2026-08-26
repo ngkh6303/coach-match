@@ -23,7 +23,7 @@ import {
   X,
 } from "lucide-react";
 
-const GOOGLE_FORM_URL: string = "";
+const GOOGLE_FORM_URL: string = "https://docs.google.com/forms/d/e/1FAIpQLSdCDeS1J2C76jdn5f7nTxGxkl9TYMnFQoyKsO5lgZUkfl6r3g/viewform";
 const FALLBACK_HERO = "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1400&q=85";
 const FALLBACK_RACKET = "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?auto=format&fit=crop&w=1000&q=85";
 const FALLBACK_TEAM = "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?auto=format&fit=crop&w=1000&q=85";
