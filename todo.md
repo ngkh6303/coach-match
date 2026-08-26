@@ -50,3 +50,16 @@
 - [x] 在 Google Form 加入十八區行政區選項，並保留現有港鐵站分類。
 - [x] 保留 Other 供教練填寫行政區以外的場地。
 - [x] 驗證公開表格及 CoachMatch 網站嵌入同步。
+
+## Google Form 合併地區 Checkbox
+
+- [x] 合併行政區及港鐵站選項為同一條 Checkbox 題目。
+- [x] 按行政區、港鐵站及其他地點標籤整理合併清單。
+- [x] 刪除原有兩條重複地區題，保留一條 Other。
+- [x] 驗證公開表格及 CoachMatch 網站嵌入同步。
+
+## Google Form 合併地區重新發佈
+
+- [x] 重新發佈合併後的單一地區 Checkbox 題目。
+- [x] 驗證公開頁顯示 18 個行政區、港鐵站及 Other。
+- [x] 更新 CoachMatch 表格進度紀錄及專案版本。
