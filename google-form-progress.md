@@ -65,3 +65,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSdCDeS1J2C76jdn5f7nTxGxkl9TYMnFQoyKsO5l
 ## 2026-08-26 姓名欄位修正
 
 第一題「你的姓名／稱呼」已由 Checkbox 改為 Short answer 文字輸入框，並移除原本的 Option 1。表格已重新發佈；公開填寫頁已驗證顯示「Your answer」文字輸入框，網站沿用同一個 embed URL，因此會自動同步更新。
+
+
+## 2026-08-27 地區、收費及技能難度更新
+
+地區題已移除 18 個行政區，只保留按港島區、九龍區、新界東及新界西分類的港鐵站，並保留 Other。收費題已更新為 HK$150／堂、HK$300／堂、HK$450／堂及 HK$500 或以上／堂，並保留 Other。新增必填的「你可教授的技能程度？」Multiple choice 題目，選項為初級、中級及高級。表格已重新發佈，公開頁已確認三項更新生效；CoachMatch 網站沿用相同嵌入網址，會自動同步。
